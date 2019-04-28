@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Tony.Ko's Blog
+tagline:          'Learning Journey'
+description:      'A roadmap which records how to learn the program.'
 url:              
 baseurl:          /hyde/
 
@@ -23,5 +23,5 @@ version:          2.1.0
 
 plugins: [jekyll-paginate, jekyll-gist]
 
-github:
+github:           https://github.com/tainenko/hyde
   repo:           https://github.com/tainenko/hyde
