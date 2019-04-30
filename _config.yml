@@ -10,7 +10,7 @@ title:            Tony.Ko's Blog
 tagline:          'Learning Journey'
 description:      'A roadmap which records how to learn the program.'
 url:              
-baseurl:          /hyde/
+baseurl:          /hyde
 
 author:
   name:           'Tony Ko'
